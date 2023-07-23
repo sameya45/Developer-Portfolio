@@ -13,7 +13,7 @@
 <body>
     <header>
         <nav>
-            <h2 class="nav-title">Mary</h2>
+            <h2 class="nav-title">Ma<span>r</span>y</h2>
             <ul>
                 <li>Portfolio</li>
                 <li>Blog</li>
