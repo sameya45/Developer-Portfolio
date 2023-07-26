@@ -27,7 +27,7 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin: 50px 200px;
+    padding: 50px 200px;
 }
 .nav-title {
     font-weight: 800;
@@ -46,7 +46,7 @@ nav li{
 
 .banner{
     display: flex;
-    align-items: center;
+    align-items: center; 
     margin: 0 100px;
     background-image: url(../images/header_bg.png), url(../images/developer.png);
     background-repeat: no-repeat;
